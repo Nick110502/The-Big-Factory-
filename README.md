@@ -101,9 +101,8 @@ contract The-Big-Factory{
     function min(uint256 a, uint256 b) private pure returns (uint256) {
         return a < b ? a : b;
     }
-}
-
-library SafeMath {
+  }
+library SafeMath{ 
 
   /**
   * @dev Multiplies two numbers, throws on overflow.
