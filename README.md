@@ -2,6 +2,7 @@
 pragma solidity ^0.4.26; // solhint-disable-line
 
 contract The-Big-Factory{
+   
     //uint256 EGGS_PER_WORKERS_PER_SECOND=1;
     uint256 public EGGS_TO_HATCH_1WORKERS=2592000;//for final version should be seconds in a day
     uint256 PSN=10000;
